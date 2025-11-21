@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Numerics;
+namespace NaiKusataDulzhina;
 class Program
 {
     static void Main()
@@ -22,4 +22,5 @@ class Program
 
         Console.WriteLine($"nai-kusata dulzhina e: {minLength}");
     }
+
 }
